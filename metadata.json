@@ -1,0 +1,8 @@
+{
+  "name": "M-System: Secure Examination Platform",
+  "description": "A secure web-based examination and learning platform with AI-powered integrity monitoring. This application provides a student view for taking exams with webcam monitoring and an instructor dashboard for reviewing flagged events.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
